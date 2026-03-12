@@ -1,12 +1,21 @@
 {
-  "store_id": "STORE_NAME_OR_ID",
-  "lastSync": "2026-03-10T20:31:28Z",
   "inventory": [],
-  "transactions": [],
+  "recipes": {},
+  "transactions": [
+    {
+      "id": 1,
+      "items": [],
+      "status": "active",
+      "date": 1773297116025
+    },
+    {
+      "id": 2,
+      "items": [],
+      "status": "active",
+      "date": 1773297354458
+    }
+  ],
   "purchaseLog": [],
   "staffSales": [],
-  "metadata": {
-    "version": "1.0",
-    "device_origin": "tablet"
-  }
+  "lastSync": "2026-03-12T06:38:56.420Z"
 }
