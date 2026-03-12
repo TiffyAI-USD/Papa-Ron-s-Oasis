@@ -1,0 +1,12 @@
+{
+  "store_id": "STORE_NAME_OR_ID",
+  "lastSync": "2026-03-10T20:31:28Z",
+  "inventory": [],
+  "transactions": [],
+  "purchaseLog": [],
+  "staffSales": [],
+  "metadata": {
+    "version": "1.0",
+    "device_origin": "tablet"
+  }
+}
